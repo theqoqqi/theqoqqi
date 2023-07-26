@@ -4,6 +4,17 @@
 Больше инфы тут: https://habr.com/ru/articles/649363/
 -->
 
+Techs that I use at work:\
+![](https://skillicons.dev/icons?i=php,mysql,js,html,css,sass,md,svg&theme=light)\
+![](https://skillicons.dev/icons?i=react,redux,electron,nodejs,laravel,bootstrap,jquery&theme=light)\
+![](https://skillicons.dev/icons?i=git,gitlab,postman,powershell,bash,firebase,figma&theme=light)
+
+Techs that I use for pet-projects:\
+![](https://skillicons.dev/icons?i=java,gradle,idea,unity,cs,js,lua,git&theme=light)
+
+Also I have some experience with:\
+![](https://skillicons.dev/icons?i=ts,vue,webpack,androidstudio,spring,maven,eclipse,py,dotnet,materialui&theme=light)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theqoqqi)\
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theqoqqi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theqoqqi)\
