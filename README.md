@@ -6,14 +6,16 @@
 
 Techs that I use at work:\
 ![](https://skillicons.dev/icons?i=php,mysql,js,html,css,sass,md,svg&theme=light)\
-![](https://skillicons.dev/icons?i=react,redux,electron,nodejs,laravel,bootstrap,jquery&theme=light)\
+![](https://skillicons.dev/icons?i=react,redux,electron,bootstrap,jquery,nodejs,laravel&theme=light)\
 ![](https://skillicons.dev/icons?i=git,gitlab,postman,powershell,bash,firebase,figma&theme=light)
 
 Techs that I use for pet-projects:\
-![](https://skillicons.dev/icons?i=java,gradle,idea,unity,cs,js,lua,git&theme=light)
+![](https://skillicons.dev/icons?i=java,gradle,idea,unity,cs,js,lua,git&theme=light)\
+![](https://skillicons.dev/icons?i=react,redux,nodejs,js,html,css,bootstrap,jquery&theme=light)
 
 Also I have some experience with:\
-![](https://skillicons.dev/icons?i=ts,vue,webpack,androidstudio,spring,maven,eclipse,py,dotnet,materialui&theme=light)
+![](https://skillicons.dev/icons?i=ts,vue,webpack,express,materialui,androidstudio,spring,maven,&theme=light)\
+![](https://skillicons.dev/icons?i=dart,flutter,eclipse,py,dotnet&theme=light)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theqoqqi)\
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theqoqqi)
