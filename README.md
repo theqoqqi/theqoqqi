@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<!--
+Больше инфы тут: https://habr.com/ru/articles/649363/
+-->
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theqoqqi)\
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theqoqqi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theqoqqi)\
