@@ -13,10 +13,6 @@
 ![](https://skillicons.dev/icons?i=java,gradle,unity,cs,js,lua,git&theme=light)\
 ![](https://skillicons.dev/icons?i=react,redux,nodejs,html,css,bootstrap,jquery&theme=light)
 
-### Also I have some experience with:
-![](https://skillicons.dev/icons?i=ts,vue,webpack,express,materialui,androidstudio,spring&theme=light)\
-![](https://skillicons.dev/icons?i=maven,dart,flutter,eclipse,py,dotnet,svg&theme=light)
-
 ## My stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theqoqqi)\
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theqoqqi)
