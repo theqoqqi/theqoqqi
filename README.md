@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on CRM/ERP and API's
 - 🌱 I’m currently learning React & Redux and Laravel
-- 💬 Ask me about [recursion](/)
+- 💬 Ask me about [recursion](https://github.com/theqoqqi)
 - 📫 How to reach me: [Telegram](https://t.me/qoqqi), [Discord](https://discordapp.com/users/273145881669140482), [E-mail](mailto:sazykin.georgii@gmail.com)
 - 😄 Pronouns: Code Wizard 🧙‍♂️
 - 🌎 Languages: English (B2), Russian (native)
