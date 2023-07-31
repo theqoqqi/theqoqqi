@@ -14,6 +14,8 @@
 - 🌎 Languages: English (B2), Russian (native)
 - ⚡ Fun fact: Once I refactored 3000 lines of code down to just 10 lines, speeding up the code by 110 times!
 
+#### About me:
+
 By day, I am deeply engaged in CRM/ERP development and various other essential business projects such as API for mobile apps, some desktop apps and VoIP client. However, my coding journey doesn't stop there. During my free time, I immerse myself in crafting diverse pet projects, some of which include:
 
 1. **Minecraft [Mod](https://github.com/theqoqqi/qcraft-1.19) and [Datapack](qstructs-1.19)**:
@@ -45,12 +47,12 @@ Feel free to browse through my projects, and let's collaborate to bring more inn
 ![](https://skillicons.dev/icons?i=react,redux,nodejs,html,css,bootstrap,jquery&theme=light)
 
 ## My stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theqoqqi)\
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theqoqqi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theqoqqi)\
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theqoqqi&exclude=ShaderLab)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theqoqqi)\
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theqoqqi&layout=compact&hide=shaderlab)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theqoqqi&theme=transparent)\
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theqoqqi&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theqoqqi&theme=transparent)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theqoqqi&exclude=ShaderLab&theme=transparent) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theqoqqi&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theqoqqi&layout=compact&hide=shaderlab&theme=transparent)
 
 <!--
 Here are some ideas to get you started:
