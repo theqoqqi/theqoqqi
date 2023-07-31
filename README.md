@@ -1,9 +1,12 @@
-## Hello there! 👋
+## Full-Stack web-developer
 
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/qoqqi)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/273145881669140482)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sazykin.georgii@gmail.com)
 
+---
+
+### Hello there! 👋
 #### Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on CRM/ERP and API's
