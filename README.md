@@ -4,7 +4,15 @@
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/273145881669140482)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sazykin.georgii@gmail.com)
 
-##### Welcome to my GitHub profile!
+#### Welcome to my GitHub profile!
+
+- 🔭 I’m currently working on CRM/ERP and API's
+- 🌱 I’m currently learning React & Redux and Laravel
+- 💬 Ask me about [recursion](/)
+- 📫 How to reach me: [Telegram](https://t.me/qoqqi), [Discord](https://discordapp.com/users/273145881669140482), [E-mail](mailto:sazykin.georgii@gmail.com)
+- 😄 Pronouns: Code Wizard 🧙‍♂️
+- 🌎 Languages: English (B2), Russian (native)
+- ⚡ Fun fact: Once I refactored 3000 lines of code down to just 10 lines, speeding up the code by 110 times!
 
 By day, I am deeply engaged in CRM/ERP development and various other essential business projects such as API for mobile apps, some desktop apps and VoIP client. However, my coding journey doesn't stop there. During my free time, I immerse myself in crafting diverse pet projects, some of which include:
 
