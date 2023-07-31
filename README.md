@@ -1,4 +1,9 @@
 ## Hello there! 👋
+
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/qoqqi)
+[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/273145881669140482)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sazykin.georgii@gmail.com)
+
 ##### Welcome to my GitHub profile!
 
 By day, I am deeply engaged in CRM/ERP development and various other essential business projects such as API for mobile apps, some desktop apps and VoIP client. However, my coding journey doesn't stop there. During my free time, I immerse myself in crafting diverse pet projects, some of which include:
