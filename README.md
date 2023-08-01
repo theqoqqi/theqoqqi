@@ -22,13 +22,13 @@
 By day, I am deeply engaged in CRM/ERP development and various other essential business projects such as API for mobile apps, some desktop apps and VoIP client. However, my coding journey doesn't stop there. During my free time, I immerse myself in crafting diverse pet projects, some of which include:
 
 1. **Minecraft [Mod](https://github.com/theqoqqi/qcraft-1.19) and [Datapack](qstructs-1.19)**:
-Within the vast world of Minecraft, I've crafted a mod that introduces intriguing puzzles, various surprise boxes, new creatures, items, structures, and more. The accompanying datapack enriches the gameplay with ancient cities — sprawling structures comprised of countless ruins that still hold valuable treasures waiting to be unearthed.
+Within the vast world of Minecraft, I've crafted a mod that introduces crafting-puzzles, various surprise boxes, new creatures, items, structures, and more. The accompanying datapack enriches the gameplay with ancient cities — sprawling structures comprised of countless ruins that still hold valuable treasures waiting to be unearthed.
 
 2. **Dota 2 [Randy Arena](https://github.com/theqoqqi/randyarena) Custom Game Mode**:
-Imagine an intense battle arena where 8 players fiercely clash to conquer and maintain supremacy. This custom game mode not only introduces fresh items but also revives some items that were once removed from the game.
+Imagine an intense battle arena where 8 players fiercely clash to conquer and maintain supremacy. This game mode introduces new game rules, map, items and revives some items that were once removed from the game.
 
 3. **Totem Tribe [Map Editor](https://github.com/theqoqqi/tteditor)**:
-Nostalgia led me to a rather ancient casual game called Totem Tribe, which I played when I was little. The game featured a built-in map editor, but its usability left much to be desired. Thus, I took it upon myself to create my own, more user-friendly map editor for this classic gem.
+Nostalgia led me to a rather old casual game called Totem Tribe, which I played when I was little. The game featured a built-in map editor, but its usability left much to be desired. Thus, I took it upon myself to create my own, more user-friendly map editor for this classic gem.
 
 Additionally, I love bringing numerous ideas to life, and some of them are available on my profile. However, it's worth mentioning that among them, you may stumble upon some charmingly unfinished ones too! 😄
 
