@@ -21,7 +21,7 @@
 
 By day, I am deeply engaged in CRM/ERP development and various other essential business projects such as API for mobile apps, some desktop apps and VoIP client. Unfortunately, due to non-disclosure agreements, I can't show code for these projects here. However, my coding journey doesn't stop there. During my free time, I immerse myself in crafting diverse pet projects, some of which include:
 
-1. **Minecraft [Mod](https://github.com/theqoqqi/qcraft-1.19) and [Datapack](qstructs-1.19)**:
+1. **Minecraft [Mod](https://github.com/theqoqqi/QCraft) and [Datapack](https://github.com/theqoqqi/QStructs)**:
 Within the vast world of Minecraft, I've crafted a mod that introduces crafting-puzzles, various surprise boxes, new creatures, items, structures, and more. The accompanying datapack enriches the gameplay with ancient cities — sprawling structures comprised of countless ruins that still hold valuable treasures waiting to be unearthed.
 
 2. **Dota 2 [Randy Arena](https://github.com/theqoqqi/randyarena) Custom Game Mode**:
