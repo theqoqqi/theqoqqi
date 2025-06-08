@@ -9,32 +9,36 @@
 ### Hello there! 👋
 #### Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on CRM/ERP and API's
-- 🌱 I’m currently learning React & Redux and Laravel
+- 🔭 I build CRM/ERP systems, APIs, and other internal tools
+- 🌱 Lately, I'm diving into Docker and AI experiments
 - 💬 Ask me about [recursion](https://github.com/theqoqqi)
 - 📫 How to reach me: [Telegram](https://t.me/qoqqi), [Discord](https://discordapp.com/users/273145881669140482), [E-mail](mailto:sazykin.georgii@gmail.com)
-- 😄 Pronouns: Code Wizard 🧙‍♂️
+- 😄 Pronouns: cookie 🍪
 - 🌎 Languages: English (B2), Russian (native)
-- ⚡ Fun fact: Once I refactored 3000 lines of code down to just 10 lines, speeding up the code by 110 times!
+- ⚡ Fun fact: I once refactored 3000 lines of code into just 10 — and made it 110x faster! *...and it was the worst code I ever worked with.*
 
 #### About me:
 
-By day, I am deeply engaged in CRM/ERP development and various other essential business projects such as API for mobile apps, some desktop apps and VoIP client. Unfortunately, due to non-disclosure agreements, I can't show code for these projects here. However, my coding journey doesn't stop there. During my free time, I immerse myself in crafting diverse pet projects, some of which include:
+By day, I work on CRM/ERP platforms and business-critical stuff — APIs for mobile and desktop apps, VoIP clients, you name it. NDAs keep the details secret, but in my free time I love tinkering with game mods and handy tools.
+However, during my free time, I immerse myself in crafting diverse pet projects, some of which include:
 
 1. **Minecraft [Mod](https://github.com/theqoqqi/QCraft) and [Datapack](https://github.com/theqoqqi/QStructs)**:
-Within the vast world of Minecraft, I've crafted a mod that introduces crafting-puzzles, various surprise boxes, new creatures, items, structures, and more. The accompanying datapack enriches the gameplay with ancient cities — sprawling structures comprised of countless ruins that still hold valuable treasures waiting to be unearthed.
+I cooked up a Minecraft mod packed with crafting puzzles, surprise loot boxes, new creatures, items, and some new structures. The matching datapack drops you into sprawling ancient cities built from endless ruins, all hiding treasure just waiting to be found.
 
 2. **Dota 2 [Randy Arena](https://github.com/theqoqqi/randyarena) Custom Game Mode**:
-Imagine an intense battle arena where 8 players fiercely clash to conquer and maintain supremacy. This game mode introduces new game rules, map, items and revives some items that were once removed from the game.
+An 8-player arena where chaos reigns — new rules, custom map, new items, and even some legendary items brought back from retirement. It's fast, it's fierce, and it's a ton of fun.
 
 3. **Totem Tribe [Map Editor](https://github.com/theqoqqi/tteditor)**:
-Nostalgia led me to a rather old casual game called Totem Tribe, which I played when I was little. The game featured a built-in map editor, but its usability left much to be desired. Thus, I took it upon myself to create my own, more user-friendly map editor for this classic gem.
+I got nostalgic for an old casual game I loved as a kid, but hated its clunky map editor. So I built my own smooth, user-friendly editor to make crafting levels a breeze.
+
+4. **UE4.27 [UAsset Diff Tool](https://github.com/theqoqqi/uasset-diff-tool)**:
+A CLI tool I whipped up to compare `.uasset` files in Unreal Engine 4.27. It helps modders spot changes in the game assets when you don't have the original files.
 
 Additionally, I love bringing numerous ideas to life, and some of them are available on my profile. However, it's worth mentioning that among them, you may stumble upon some charmingly unfinished ones too! 😄
 
 Beyond my personal projects, I find great joy in mentoring my friends, guiding them in programming, and assisting them with questions they may have.
 
-Feel free to browse through my projects, and let's collaborate to bring more innovation and excitement to the coding community! 🚀
+Feel free to browse through my repos! There is some cookies 🍪
 
 <!--
 Больше инфы тут: https://habr.com/ru/articles/649363/
@@ -46,8 +50,8 @@ Feel free to browse through my projects, and let's collaborate to bring more inn
 ![](https://skillicons.dev/icons?i=git,gitlab,postman,powershell,bash,firebase,figma&theme=light)
 
 ### Techs that I use for pet-projects:
-![](https://skillicons.dev/icons?i=java,gradle,unity,cs,js,lua,git&theme=light)\
-![](https://skillicons.dev/icons?i=react,redux,nodejs,html,css,bootstrap,jquery&theme=light)
+![](https://skillicons.dev/icons?i=docker,git,java,gradle,unity,cs,lua&theme=light)\
+![](https://skillicons.dev/icons?i=ts,js,react,redux,nodejs,html,css&theme=light)
 
 ## My stats:
 > **Note**: The displayed statistics represent the code contributed to my personal projects and pet projects only. It does not include the code I write for proprietary projects.
@@ -55,6 +59,6 @@ Feel free to browse through my projects, and let's collaborate to bring more inn
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theqoqqi&theme=transparent)\
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theqoqqi&theme=transparent)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theqoqqi&theme=transparent)
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theqoqqi&exclude=ShaderLab&theme=transparent) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theqoqqi&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theqoqqi&exclude=ShaderLab&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theqoqqi&theme=transparent)\
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theqoqqi&layout=compact&hide=shaderlab&theme=transparent)
